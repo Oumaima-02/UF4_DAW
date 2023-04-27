@@ -1,3 +1,6 @@
 Nombe: OUmaima Jeaidi
 Correo: ojeaidi@institutmvm.cat
 Cargo: Estudiante
+Nombre: ALbert
+Correo: aalonso@institutmvm.cat
+Cargo: Profesor
