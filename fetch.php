@@ -1,1 +1,2 @@
-<?php  echo "Fichero para fetch"; ?>
+<?php  echo "Fichero para fetch";
+echo "Fichero Fetch midificado"; ?>
